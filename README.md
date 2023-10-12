@@ -1,2 +1,2 @@
 # Deep-learning-for-channel-encoding-and-decoding
-My graduation project.
+This is my Bachelor's thesis. It investigates applying deep learning methods on channel coding and decoding, comparing them with traditional channel coding and decoding approaches. The experiments involve a comparison between LDPC (Low-Density Parity-Check) codes and Polar codes. The deep learning methods employed include MLP (Multilayer Perceptron), CNN (Convolutional Neural Network), and RNN (Recurrent Neural Network). The experimental results indicate that deep learning methods demonstrate comparable performance to traditional encoding and decoding methods, while also offering the advantage of not requiring complex encoding and decoding rules.
